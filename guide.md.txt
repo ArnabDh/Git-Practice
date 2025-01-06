@@ -6,6 +6,7 @@ Here’s a single `guide.md` file that includes all the elements discussed:
 Git is a powerful version control system that helps developers track and manage changes to their code. Whether you are working solo or collaborating with a team, Git ensures your changes are safe and can be easily managed. This guide will walk you through some basic Git commands to help you get started.
 
 ## Table of Contents
+ss,cbmzxcbxncm,zxcvzxjjczxbczxmncm,zcvjzxnczxbczx cbnzxbcmzc bnzx cnzxcbzx
 1. [Setting Up Git](#setting-up-git)
 2. [Creating a Repository](#creating-a-repository)
 3. [Staging Changes](#staging-changes)
